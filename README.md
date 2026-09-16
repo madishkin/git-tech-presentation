@@ -9,8 +9,8 @@
 | Участник | Роль / Тема | Ветка | Папка |
 | :--- | :--- | :--- | :--- |
 | **@madishkin** (Тимлид) | Архитектура Git, внутреннее устройство (Blob, Tree, Commit, HEAD) | `feature/git-internals` | `parts/part1-basics/` |
-| **@участник_2** | Локальный рабочий процесс (`init`, `status`, `add`, `commit`, `diff`, `log`) | `feature/local-workflow` | `parts/part2-branching/` |
-| **@участник_3** | Ветвление и слияние (`branch`, `checkout`, `merge`, `rebase`, разрешение конфликтов) | `feature/branches-merge` | `parts/part3-collaboration/` |
+| **@Cr1mSonic** | Локальный рабочий процесс (`init`, `status`, `add`, `commit`, `diff`, `log`) | `feature/local-workflow` | `parts/part2-branching/` |
+| **@MorN1ck** | Ветвление и слияние (`branch`, `checkout`, `merge`, `rebase`, разрешение конфликтов) | `feature/branches-merge` | `parts/part3-collaboration/` |
 
 ---
 
